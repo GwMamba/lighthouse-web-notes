@@ -1,4 +1,4 @@
 # Gerald's Notes
 
-# This is an H1 header (Largest)
-###### This is an H6 headder (smallest)
+### Summary
+This repository containes all of the notes taken by [Gerald](https://github.com/GwMamba) for the lighthouse Labs Web Development Bootcamp.
